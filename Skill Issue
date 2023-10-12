@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "Hello, world! This is a simple program in Microsoft Visual Studio." << std::endl;
+    return 0;
+}
